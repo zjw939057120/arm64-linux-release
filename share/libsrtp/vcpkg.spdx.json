@@ -3,13 +3,13 @@
   "spdxVersion": "SPDX-2.2",
   "dataLicense": "CC0-1.0",
   "SPDXID": "SPDXRef-DOCUMENT",
-  "documentNamespace": "https://spdx.org/spdxdocs/libsrtp-arm64-linux-release-2.5.0#1-877801e6-3d82-4c22-bbad-cf3d996d0cbf",
-  "name": "libsrtp:arm64-linux-release@2.5.0#1 03814935a7db33faa069c0592b4ed738ca4526349c4c30dae51544eee2ba908b",
+  "documentNamespace": "https://spdx.org/spdxdocs/libsrtp-arm64-linux-release-2.5.0#1-d9dcb3cd-5839-4a44-80f1-7b03bdefda02",
+  "name": "libsrtp:arm64-linux-release@2.5.0#1 0b2c785e66b352afac521211af352e9135c471f52c693098856f121f166f669f",
   "creationInfo": {
     "creators": [
       "Tool: vcpkg-2024-12-09-1005b78fa1bf1dde1a20c2734cba4ea61ca94d9a"
     ],
-    "created": "2025-08-18T16:14:08Z"
+    "created": "2025-08-23T15:20:36Z"
   },
   "relationships": [
     {
@@ -79,7 +79,7 @@
     {
       "name": "libsrtp:arm64-linux-release",
       "SPDXID": "SPDXRef-binary",
-      "versionInfo": "03814935a7db33faa069c0592b4ed738ca4526349c4c30dae51544eee2ba908b",
+      "versionInfo": "0b2c785e66b352afac521211af352e9135c471f52c693098856f121f166f669f",
       "downloadLocation": "NONE",
       "licenseConcluded": "BSD-3-Clause",
       "licenseDeclared": "NOASSERTION",
